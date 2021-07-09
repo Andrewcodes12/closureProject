@@ -13,8 +13,8 @@ invoked below:
 let countDownTimer = n => {
   let counter = n
 
-  if (counter === 0) {
-    return "Happy New Year!"
+   if (counter === 0) {
+     return "Happy New Year!"
 
   } else {
 
